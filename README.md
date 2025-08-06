@@ -1,1 +1,1 @@
-Building AMAZON Clone Project using HTML & CSS
+Building AMAZON Clone Project using HTML5 & CSS3
